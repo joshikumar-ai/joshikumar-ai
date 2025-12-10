@@ -92,7 +92,7 @@ I don't just use AI. I know **which LLM excels at what**.
 
 ## 📍 Connect With Me
 
-- 🔗 **LinkedIn:** [linkedin.com/in/joshi-kumar-n](www.linkedin.com/in/joshi-kumar-ai)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/joshi-kumar-ai](www.linkedin.com/in/joshi-kumar-ai)
 - 📧 **Email:** joshi.ai.architect@gmail.com
 - 📍 **Location:** Hyderabad, India
 
